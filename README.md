@@ -1,4 +1,4 @@
-# Contains two Codeinstitute challenges designed to explore the CSS @keyframes property
+# Contains one Codeinstitute challenge designed to explore the CSS animation property and the @keyframes rule
 
 <br>
 
